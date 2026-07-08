@@ -1,9 +1,0 @@
-00_000_0_0_000   add, instruction lw/sw 
-01_000_0_0_001   subtract, instruction beq
-10_000_0_0_000   add, instruction add test1
-10_000_0_1_000   add, instruction add test2
-10_000_1_0_000   add, instruction add test3
-10_000_1_1_001   subtract, instruction sub 
-10_010_0_0_101   set less than, instruction slt 
-10_110_0_0_011   or, instruction or 
-10_111_0_0_010   and, instruction and 
