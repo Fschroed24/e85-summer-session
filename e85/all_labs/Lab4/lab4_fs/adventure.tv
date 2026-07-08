@@ -1,0 +1,18 @@
+0000_00
+0010_00
+0100_00
+0010_00
+0000_00
+0000_10
+
+0010_00
+0100_00
+0001_00
+0010_00
+0010_00
+0000_00
+0000_01 
+
+
+// how do u choose what values to do?
+// want to do a couple of general cases for the basics, and then do lots of extreme cases
